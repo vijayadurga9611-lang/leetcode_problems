@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -20,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
