@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
