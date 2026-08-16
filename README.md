@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vijayadurga9611-lang/leetcode_problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
